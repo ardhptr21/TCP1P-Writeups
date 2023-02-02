@@ -4,7 +4,7 @@
 
 | No | Soal                                 |
 | -- | ------------------------------------ |
-| 1. | Greeting                             |
+| 1. | [Greeting](./Greeting/)              |
 | 2. | Insecure                             |
 | 3. | Magic                                |
 | 4. | Web Fetcher                          |
