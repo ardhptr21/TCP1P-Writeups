@@ -6,7 +6,7 @@
 | -- | ------------------------------------ |
 | 1. | [Greeting](./Greeting/)              |
 | 2. | [Insecure](./Insecure/)                             |
-| 3. | Magic                                |
+| 3. | [Magic](./Magic)                                |
 | 4. | Web Fetcher                          |
 | 5. | PHP Unserialize                      |
 | 6. | Property                             |
