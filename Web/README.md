@@ -5,7 +5,7 @@
 | No | Soal                                 |
 | -- | ------------------------------------ |
 | 1. | [Greeting](./Greeting/)              |
-| 2. | Insecure                             |
+| 2. | [Insecure](./Insecure/)                             |
 | 3. | Magic                                |
 | 4. | Web Fetcher                          |
 | 5. | PHP Unserialize                      |
